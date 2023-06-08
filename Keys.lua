@@ -4,7 +4,6 @@ return {
     "itsrealselimonyx", --//Lifetime
     "Ayd_1010", --// LifeTime
     "beamedbylucidbeams", --// LifeTime
-    "Ohavo0", --// 09.06.2023
     "arenyoyo1234",
     "Breadrald6", --14.06.2023
     "abdulkareem0475", --// 18.06.2023
