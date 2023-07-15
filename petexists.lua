@@ -1,0 +1,16 @@
+return {
+    ["Titanic Jolly Cat"] = "506",
+    ["Titanic Balloon Monkey"] = "606",
+    ["Titanic Neon Agony"] = "642",
+    ["Titanic Hubert"] = "885",
+    ["Titanic Red Balloon Cat"] = "844",
+    ["Titanic Blue Balloon Cat"] = "851",
+    ["Titanic Hippomelon"] = "60",
+    ["Titanic Dominus Astra"] = "970",
+    ["Titanic Lucki"] = 0,
+    ["Titanic Capybara"] = 0,
+    ["Titanic Blobfish"] = "44",
+    ["Titanic Hologram Cat"] = "750",
+    ["Titanic Mystic Corgi"] = 0,
+    ["banana"] = "2,301",
+}
