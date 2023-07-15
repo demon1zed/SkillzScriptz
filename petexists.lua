@@ -1,4 +1,5 @@
 return {
+    ["Titanic Cat"] = "85",
     ["Titanic Jolly Cat"] = "506",
     ["Titanic Balloon Monkey"] = "606",
     ["Titanic Neon Agony"] = "642",
