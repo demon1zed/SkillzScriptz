@@ -5,7 +5,7 @@ return {
     ["Titanic Neon Agony"] = "643",
     ["Titanic Hubert"] = "885",
     ["Titanic Red Balloon Cat"] = "864",
-    ["Titanic Blue Balloon Cat"] = "866    ",
+    ["Titanic Blue Balloon Cat"] = "866",
     ["Titanic Hippomelon"] = "67",
     ["Titanic Dominus Astra"] = "972",
     ["Titanic Lucki"] = "912",
