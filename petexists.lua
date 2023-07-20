@@ -1,5 +1,9 @@
 return {
     ["Titanic Cat"] = "114",
+    ["Titanic Atlantean Jellyfish"] = 0,
+    ["Titanic Nightmare Cat"] = "568",
+    ["Titanic Tiedye Dragon"] = "791",
+    ["Titanic Tiedye Cat"] = "762",
     ["Titanic Jolly Cat"] = "506",
     ["Titanic Balloon Monkey"] = "606",
     ["Titanic Neon Agony"] = "643",
