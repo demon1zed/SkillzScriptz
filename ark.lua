@@ -1,4 +1,5 @@
 _G.ScriptName = "Unknown Scripts"
+_G.WaitingTime = 180
 
 local pusername = (game:GetService("Players")).LocalPlayer.Name;
 local RLoading = Instance.new("ScreenGui");
