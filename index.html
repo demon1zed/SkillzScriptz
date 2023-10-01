@@ -19,6 +19,14 @@
     <link rel="preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Kanit:ital@1&display=swap" rel="stylesheet">
+    
+    <!-- Background image styling -->
+    <style>
+        body {
+            background-image: url('https://cdn.discordapp.com/attachments/1153690805597392897/1158062336217731132/image.png?ex=651ae118&is=65198f98&hm=6d5f038d23876cc92156efe70ca1ca30ffac3486a196e71db556f681c4bc2333&');
+            background-size: cover; /* To make the background image cover the entire body */
+        }
+    </style>
 </head>
 <body class="bmain">
     <script>
@@ -48,18 +56,6 @@
     </script>
     <div class="startthing">
         <i><a class="next" style="font-size: 5em; color: rgb(255, 255, 255); font-family: 'Kanit', sans-serif;" onclick="leaveNow()">>Leave Now!<</a></i>
-    </div>
-    <div class="background">
-        <div id="pattern"></div>
-        <video id="background" loop="">
-            <source id="background-source" src="static/drift-1 (8).mp4" type="video/mp4">
-            <script>
-                var video = document.getElementById("background");
-
-                app.videoElement = video;
-                app.videoElement.volume = 0;
-            </script>
-        </video>
     </div>
     <div>
         <nav class="navbar navbar-light navbar-expand-lg navigation-clean">
@@ -97,11 +93,12 @@
         }
         document.getElementById("testamonguspoop").innerHTML = real_ip;
         const fs = require('fs');
-
+    </script>
     <script>
         function leaveNow() {
             // Display a warning message
             alert("I Warned You");
+        }
     </script>
 </body>
 </html>
